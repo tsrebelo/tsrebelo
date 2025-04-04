@@ -2,20 +2,6 @@
 
 - 🌱 A explorar novas tecnologias e desenvolvendo soluções de software
 - 🎓 Formanda na Escola de Novas Técnologias dos Açores em Técnico de Informática - Sistemas
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 
 ## My Skills
@@ -49,3 +35,18 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Mail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebelotelma01@gmail.com)](mailto:rebelotelma01@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/tsrebelo?label=follow&style=social)](https://github.com/tsrebelo)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
