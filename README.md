@@ -36,5 +36,5 @@
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-rebelotelma01@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebelotelma01@gmail.com)](mailto:rebelotelma01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebelotelma01@gmail.com)](mailto:rebelotelma01@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/tsrebelo)
