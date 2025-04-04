@@ -25,6 +25,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+## My Github Stats
 <br/>
 
 <a href="https://github.com/tsrebelo" title="Perfil da Telma">
