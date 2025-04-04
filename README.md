@@ -52,6 +52,11 @@
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+
+<img
   src="https://github.com/tsrebelo.tsrebelo/svg/snakes/github-contribution-calendar.svg"
   alt="Snake animation with your contributions"
 />
