@@ -1,10 +1,9 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=tsrebelo&color=006bed)
 
 ## Sobre mim
 
 - 🌱 A explorar novas tecnologias e desenvolvendo soluções de software
 - 🎓 Formanda na Escola de Novas Técnologias dos Açores em Técnico de Informática - Sistemas
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
