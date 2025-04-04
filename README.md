@@ -42,7 +42,7 @@
 <br/>
 
 <a href="https://github.com/tsrebelo" title="Perfil da Telma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsrebelo&theme=purple&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsrebelo&theme=midnight-purple&show_icons=true" />
 </a>
 
 ## Connect with me
