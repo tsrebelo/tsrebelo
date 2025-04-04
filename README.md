@@ -42,4 +42,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-Mail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebelotelma01@gmail.com)](mailto:rebelotelma01@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/tsrebelo?label=follow&style=social)](https://github.com/tsrebelo)
 
-[![GitHub Snake](https://github.com/tsrebelo.tsrebelo/svg/snakes/github-contribution-calendar.svg)](https://github.com/tsrebelo)
