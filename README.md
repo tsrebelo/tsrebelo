@@ -1,7 +1,7 @@
 ## About me
 
-- 🌱 A explorar novas tecnologias e desenvolvendo soluções de software
-- 🎓 Formanda na Escola de Novas Técnologias dos Açores em Técnico de Informática - Sistemas
+- 🌱 A explorar novas tecnologias e a desenvolver soluções de software
+- 🎓 Formanda na Escola de Novas Técnologias dos Açores em Técnico de Informática - Sistemas Nível IV
 
 
 ## My Skills
